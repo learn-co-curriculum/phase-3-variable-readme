@@ -1,4 +1,4 @@
-# Introduction to Variables
+# Variables
 
 ## Objectives
 
