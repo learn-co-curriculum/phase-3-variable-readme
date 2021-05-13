@@ -1,10 +1,10 @@
 # Variables
 
-## Objectives
+## Learning Goals
 
-1. Define a variable.
-2. Create and reassign variables.
-3. Define pass-by-value as it relates to variables.
+- Define a variable
+- Create and reassign variables
+- Define pass-by-value as it relates to variables
 
 ## Video
 
